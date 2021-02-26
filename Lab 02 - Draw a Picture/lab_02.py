@@ -31,6 +31,6 @@ arcade.draw_lrtb_rectangle_filled(210, 320, 420, 410, arcade.color.RED)
 arcade.draw_lrtb_rectangle_filled(190, 320, 498, 488, arcade.color.RED)
 # --- Finish drawing ---
 arcade.finish_render()
-
 # Keep the window up until someone closes it.
 arcade.run()
+print("cesar marico")
